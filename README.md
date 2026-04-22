@@ -13,10 +13,9 @@ And currently learning front-end, design and app development. I love to learn an
 
 * **I am interested in Web designing, App development, and digital marketing.**
 - 🌱 I’m currently learning...
-  - React js
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, I love to watching series and play soccer, listen to music, and explore nature outdoors.
+<br>
+- Outside tech, I love to watching series and play soccer, listen to music.
 
 ## My Skills Include
 
