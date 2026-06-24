@@ -8,13 +8,11 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-And currently learning front-end, design and app development. I love to learn and build something new, productive, innovative and creative.
+#### And currently learning front-end, design and app development. I love to learn and build something new, productive, innovative and creative.
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-* **I am interested in Web designing, App development, and digital marketing.**
-- 🌱 I’m currently learning...
-- 👯 I’m looking forward to collaborate on open source projects.
-<br>
+- I’m currently learning JavaScript, React and Python.
+- I’m looking forward to collaborate on open source projects.
 - Outside tech, I love to watching series and play soccer, listen to music.
 
 ## My Skills Include
